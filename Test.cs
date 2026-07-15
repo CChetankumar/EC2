@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EC2
 {
-    class Demo
+    class Test
     {
     }
 }
