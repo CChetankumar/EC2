@@ -21,6 +21,7 @@ namespace EC2
         {
             Age aaa = new Age(2);
             aaa.display();
+            Console.ReadKey();
 
         }
     }
